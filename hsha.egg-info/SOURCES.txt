@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hsha/__init__.py
+hsha/main.py
+hsha.egg-info/PKG-INFO
+hsha.egg-info/SOURCES.txt
+hsha.egg-info/dependency_links.txt
+hsha.egg-info/entry_points.txt
+hsha.egg-info/top_level.txt
