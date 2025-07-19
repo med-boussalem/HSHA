@@ -50,8 +50,7 @@ werkzeug
 requests
 ''',
     ".env": '''# .env
-FLASK_APP=main.py
-FLASK_ENV=development
+
 ''',
     "templates/index.html": "<h1>Welcome to the Index Page</h1>",
     "templates/about.html": "<h1>About Us</h1>",
